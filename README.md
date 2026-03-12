@@ -6,7 +6,7 @@ harm classification, and accountability frameworks.
 
 | # | Title | Year | Status | DOI / Link |
 |---|-------|------|--------|------------|
-| 1 | Beyond Remediation: An Irreversibility Threshold for Preventive AI Governance | 2025 | Published | [10.5281/zenodo.18908588](https://doi.org/10.5281/zenodo.18908588) |
+| 1 | Beyond Remediation: An Irreversibility Threshold for Preventive AI Governance | March, 2026 | Published | [10.5281/zenodo.18908588](https://doi.org/10.5281/zenodo.18908588) |
 | 2 | *(forthcoming)* | — | — | — |
 | 3 | *(forthcoming)* | — | — | — |
 
